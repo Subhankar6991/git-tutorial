@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 My name Is Subhankar Karmakar.
 
 My father's name is Sankar Karmakar.
 
 Adding a new line in the rebasebranch.
 
+=======
+My name is Subhankar Karmakar.
+>>>>>>> parent of 695a712 (Updated file subhankar.txt)
